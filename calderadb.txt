@@ -1,0 +1,14 @@
+Contents of the Database:
+The SQLite database (caldera.db) contains tables for:
+
+    Agents (registered implants)
+
+    Abilities (TTPs - Tactics, Techniques, and Procedures)
+
+    Adversaries (profiles defining attack behavior)
+
+    Operations (attack simulations and results)
+
+    Users & Credentials (if authentication is enabled)
+
+    Logs & Exfiltrated Data
